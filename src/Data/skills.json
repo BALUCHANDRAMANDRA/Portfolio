@@ -1,0 +1,30 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20190125%2Fwpj%2Fkisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg&tbnid=CMejG3u2-z4qVM&vet=12ahUKEwjwgu2fvb6EAxWyyAIHHb_qBCYQMygDegQIARB3..i&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-icons-html5-scalable-vector-graphics-port-7081597%2F&docid=u160KCYh3Wf1MM&w=900&h=520&q=html%20logo%20png&ved=2ahUKEwjwgu2fvb6EAxWyyAIHHb_qBCYQMygDegQIARB3"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
